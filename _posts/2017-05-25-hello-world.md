@@ -5,6 +5,7 @@ tags: programming
 cover: 'assets/images/hello-world.jpg'
 subclass: post tag-programming
 navigation: True
+disqus: True
 ---
 
 Hello World! these two words lay the stepping stones for any beginner student who aspires to become
